@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
           Icons.star,
           color: Colors.red[500],
         ),
-        Text('100'),
+        Text('10345378748'),
       ],
     ),
   );
